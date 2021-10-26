@@ -12,6 +12,19 @@ Thankfully a prior remodel had replaced the pipes in the walls with PEX-B to all
 
 As a bonus I also added an expansion tank (to prevent high pressure as the water expands when heating) and a [Moen Flo](https://www.moen.com/flo) to monitor flow and pressure.
 
+Galvanized rusty bits I cleaned out of my fittings:
+
+<a href="https://user-images.githubusercontent.com/218876/138945026-a012055f-d3df-4e9c-9b55-11ac66cb1c7f.jpg"><img src="https://user-images.githubusercontent.com/218876/138945026-a012055f-d3df-4e9c-9b55-11ac66cb1c7f.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg"><img src="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg"><img src="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg" width="200" ></a>
+
+
+Inside of the pipes I replaced
+
+<a href="https://user-images.githubusercontent.com/218876/138945678-c99bec25-e849-446f-a3ce-237f881fe63c.jpg"><img src="https://user-images.githubusercontent.com/218876/138945678-c99bec25-e849-446f-a3ce-237f881fe63c.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/138945690-14bc3af4-f92f-4e44-bfaa-30aebd0f74c8.jpg"><img src="https://user-images.githubusercontent.com/218876/138945690-14bc3af4-f92f-4e44-bfaa-30aebd0f74c8.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/138945983-f937c1bb-6925-462d-a552-a12c2a8d83e4.jpg"><img src="https://user-images.githubusercontent.com/218876/138945983-f937c1bb-6925-462d-a552-a12c2a8d83e4.jpg" width="200" ></a>
+
 ## Design
 
 ### PEX
@@ -24,9 +37,18 @@ See also:
 * [Video about pex fitting options](https://youtu.be/PaouJskWAXc).
 * [Another one](https://youtu.be/xCwxbT_hhFQ)
 
+<a href="https://user-images.githubusercontent.com/218876/138946190-193766ee-a60f-4aac-9a73-3b2210a0a10c.jpg"><img src="https://user-images.githubusercontent.com/218876/138946190-193766ee-a60f-4aac-9a73-3b2210a0a10c.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/138946478-89950432-2f5a-48cf-aa1c-6be4e9f1e69c.jpg"><img src="https://user-images.githubusercontent.com/218876/138946478-89950432-2f5a-48cf-aa1c-6be4e9f1e69c.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/138946667-8fe4bdc5-9b33-4eb0-bbfa-4567f7b6c407.jpg"><img src="https://user-images.githubusercontent.com/218876/138946667-8fe4bdc5-9b33-4eb0-bbfa-4567f7b6c407.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/138946776-d2329c2b-488d-42b5-bb43-c9b877a5e0a9.jpg"><img src="https://user-images.githubusercontent.com/218876/138946776-d2329c2b-488d-42b5-bb43-c9b877a5e0a9.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/138946844-89cfb94c-6d73-43d8-99ee-088e95a42ae6.jpg"><img src="https://user-images.githubusercontent.com/218876/138946844-89cfb94c-6d73-43d8-99ee-088e95a42ae6.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/138946881-535c51c6-4d42-47b3-8b34-6f6730cf1d31.jpg"><img src="https://user-images.githubusercontent.com/218876/138946881-535c51c6-4d42-47b3-8b34-6f6730cf1d31.jpg" width="200" ></a>
+
 ### Layout
 
 There are several layout options. Here's a [good overview](https://www.finehomebuilding.com/2009/03/02/three-designs-for-pex-plumbing-systems). On one extreme there's trunk-and-branch where you use single big pipes that snake throughout the house and then smaller pipes branch directly off that pipe to go to the fixtures. On the other extreme there's the "home run" design where you have one big manifold near your hot water heater, and then you run individual pipes to each fixture. There's also designs in-between (sometimes called submanifold or logic plumbing). Trunk-and-branch is the traditional option, but it wastes a ton of hot water at the furthest fixture since there's a ton of water that needs to be cleared from the pipe. I opted for something mostly like a "home run" design except that some of the lines supply several fixtures.
+
+<a href="https://user-images.githubusercontent.com/218876/138947249-3f8913da-44d7-4358-a367-b2f60878969a.jpg"><img src="https://user-images.githubusercontent.com/218876/138947249-3f8913da-44d7-4358-a367-b2f60878969a.jpg" width="200" ></a>
 
 ## Parts list
 
