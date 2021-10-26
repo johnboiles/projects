@@ -1,14 +1,14 @@
 # Plumbing Refactor
 
-My house was built in 1927 and still had galvanized steel pipes possibly from the original construction under the house. Galvanized pipes rust on the inside, impeding water flow. Sometimes the rusty bits break off, get stuck in plumbing fixtures, and further impede flow until you take the fixture apart and clean them out. Also because of the thermal mass of the galvanized pipes, along with the traditional trunk-and-branch layout (large main water pipes with smaller pipes going to individual fixtures), it would take >60s for the master bathroom shower to get hot, wasting a ton of water every time we showered.
+My house was built in 1927 and still had galvanized steel pipes possibly from the original construction. Galvanized pipes rust on the inside, impeding water flow. Sometimes the rusty bits break off, get stuck in plumbing fixtures, and further impede flow until you take the fixture apart and clean it out. Also because of the thermal mass of the heavy pipes, along with the traditional trunk-and-branch layout (large main water pipes with smaller pipes going to individual fixtures), it would take >60s for the master bathroom shower to get hot, wasting a ton of water every time we showered.
 
-I wanted to replace these with more modern PEX-A plumbing. Goals of this project were
+I wanted to replace these with more modern PEX-A plumbing. Goals of this project were:
 
 * Increase water pressure throughout the house
 * Decrease regular maintenance (no more rusty bits!)
 * Get hot water to the back of the house faster
 
-Thankfully a prior remodel had replaced the pipes in the walls with PEX-B to all the fixtures, so I didn't need to rip any walls open, I just needed to relpace all the pipes in the crawl space.
+Thankfully a prior remodel had replaced the pipes in the interior walls with PEX-B to all the fixtures, so I didn't need to rip any walls open, I just needed to replace all the pipes in the crawl space below the house.
 
 As a bonus I also added an expansion tank (to prevent high pressure as the water expands when heating) and a [Moen Flo](https://www.moen.com/flo) to monitor flow and pressure.
 
@@ -16,8 +16,7 @@ Galvanized rusty bits I cleaned out of my fittings:
 
 <a href="https://user-images.githubusercontent.com/218876/138945026-a012055f-d3df-4e9c-9b55-11ac66cb1c7f.jpg"><img src="https://user-images.githubusercontent.com/218876/138945026-a012055f-d3df-4e9c-9b55-11ac66cb1c7f.jpg" width="200" ></a>
 <a href="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg"><img src="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg" width="200" ></a>
-<a href="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg"><img src="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg" width="200" ></a>
-
+<a href="https://user-images.githubusercontent.com/218876/138965951-d0d78d7c-cabf-4159-bdaa-db0e9e239e62.jpg"><img src="https://user-images.githubusercontent.com/218876/138965951-d0d78d7c-cabf-4159-bdaa-db0e9e239e62.jpg" width="200" ></a>
 
 Inside of the pipes I replaced
 
@@ -29,9 +28,9 @@ Inside of the pipes I replaced
 
 ### PEX
 
-I went with PEX-A tubing. I used 3/4" from the main entry into the house, and then 1/2" to the individual zones. PEX-A is really neat, you use a special tool that stretches the PEX-A tubing, you then attach it to a PEX-A fitting, and slowly the tubing contracts around the fitting, creating a simple but sturdy seal. It was an absolute joy to use. Because the pipe is stretched wider, the fittings are able to have an inner diameter about the same size as the inner diameter of the tubing itself, so there's less impedence to the water flow.
+I went with PEX-A tubing. I used 3/4" from the main entry into the house, and then 1/2" to the individual zones. PEX-A (sold by Uponor as AquaPex) is really neat, you use a special tool that stretches the PEX-A tubing, you then attach it to a PEX-A fitting, and slowly the tubing contracts around the fitting, creating a simple but sturdy seal. It was an absolute joy to use. Because the pipe is stretched wider when connecting to fittings, the fittings are able to have an inner diameter about the same size as the inner diameter of the tubing itself, so there's less impedence to the water flow.
 
-In the walls, there was already PEX-B tubing. PEX-B does not support the expansion fittings, so I needed to adapt PEX-A to PEX-B. The officially supported way, according to Uponor (the main manufacturer of PEX-A) is to go from `PEX-A` -> `PEX-A expansion to threaded fitting` -> `threaded fitting to PEX-B compression fitting` -> `PEX-B`. This seemed way too complex (and expensive!). Instead, I just go PEX-B compression fittings and a PEX-B compression tool. These use a smaller diameter fitting that fits inside the tubing (without expansion) and then a copper ring that fits around the tubing. The copper ring is compressed with a special tool to squeeze the tubing to the fitting. While not officially supported by the manufacturer for PEX-A it works just fine.
+From a prior remodel, there was already PEX-B tubing in the interior walls going to the fixtures. PEX-B does not work with expansion fittings, so I needed to adapt PEX-A to PEX-B. Ideally there would exist a PEX-B compression to PEX-A expansion adapter fitting, but I wasn't able to find a part like that. The officially supported way, according to Uponor is to go from `PEX-A` -> `PEX-A expansion to threaded fitting` -> `threaded fitting to PEX-B compression fitting` -> `PEX-B`. This seemed way too complex (and expensive!). Instead, I just used PEX-B compression fittings and a PEX-B compression tool. These use a smaller diameter fitting that fits inside the tubing (without expansion) and then a copper ring that fits around the tubing. The copper ring is compressed with a special tool to squeeze the tubing to the fitting. While not officially recommended by Uponor, it works just fine for PEX-A.
 
 See also:
 * [Video about pex fitting options](https://youtu.be/PaouJskWAXc).
@@ -46,7 +45,7 @@ See also:
 
 ### Layout
 
-There are several layout options. Here's a [good overview](https://www.finehomebuilding.com/2009/03/02/three-designs-for-pex-plumbing-systems). On one extreme there's trunk-and-branch where you use single big pipes that snake throughout the house and then smaller pipes branch directly off that pipe to go to the fixtures. On the other extreme there's the "home run" design where you have one big manifold near your hot water heater, and then you run individual pipes to each fixture. There's also designs in-between (sometimes called submanifold or logic plumbing). Trunk-and-branch is the traditional option, but it wastes a ton of hot water at the furthest fixture since there's a ton of water that needs to be cleared from the pipe. I opted for something mostly like a "home run" design except that some of the lines supply several fixtures.
+There are several layout options. Here's a [good overview](https://www.finehomebuilding.com/2009/03/02/three-designs-for-pex-plumbing-systems). On one extreme there's trunk-and-branch where you use big pipes that snake throughout the whole house and then smaller pipes branch directly off that pipe to go to the fixtures. On the other extreme there's the "home run" design where you have one big manifold near your hot water heater, and then you run individual skinny pipes to each fixture. There's also designs in-between (sometimes called submanifold or logic plumbing). Trunk-and-branch is the traditional option, but it wastes a ton of hot water at the furthest fixture since there's a ton of water that needs to be cleared from the pipe. I opted for something mostly like a "home run" design except that some of the lines supply several fixtures.
 
 <a href="https://user-images.githubusercontent.com/218876/138947249-3f8913da-44d7-4358-a367-b2f60878969a.jpg"><img src="https://user-images.githubusercontent.com/218876/138947249-3f8913da-44d7-4358-a367-b2f60878969a.jpg" width="200" ></a>
 
