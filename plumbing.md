@@ -17,15 +17,17 @@ As a bonus I also added an expansion tank (to prevent high pressure as the water
 Galvanized rusty bits I cleaned out of my fittings:
 
 <a href="https://user-images.githubusercontent.com/218876/138945026-a012055f-d3df-4e9c-9b55-11ac66cb1c7f.jpg"><img src="https://user-images.githubusercontent.com/218876/138945026-a012055f-d3df-4e9c-9b55-11ac66cb1c7f.jpg" width="200" ></a>
-<a href="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg"><img src="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg" width="200" ></a>
 <a href="https://user-images.githubusercontent.com/218876/138965951-d0d78d7c-cabf-4159-bdaa-db0e9e239e62.jpg"><img src="https://user-images.githubusercontent.com/218876/138965951-d0d78d7c-cabf-4159-bdaa-db0e9e239e62.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/139725287-132cbb0f-001d-477a-816a-10df7756b7af.jpg"><img src="https://user-images.githubusercontent.com/218876/139725287-132cbb0f-001d-477a-816a-10df7756b7af.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/139725295-cb07e8a1-bdcb-413e-a993-d6d1ed5b8f8e.jpg"><img src="https://user-images.githubusercontent.com/218876/139725295-cb07e8a1-bdcb-413e-a993-d6d1ed5b8f8e.jpg" width="200" ></a>
+
 
 Old pipes I replaced
 
 <a href="https://user-images.githubusercontent.com/218876/138945678-c99bec25-e849-446f-a3ce-237f881fe63c.jpg"><img src="https://user-images.githubusercontent.com/218876/138945678-c99bec25-e849-446f-a3ce-237f881fe63c.jpg" width="200" ></a>
-<a href="https://user-images.githubusercontent.com/218876/138945690-14bc3af4-f92f-4e44-bfaa-30aebd0f74c8.jpg"><img src="https://user-images.githubusercontent.com/218876/138945690-14bc3af4-f92f-4e44-bfaa-30aebd0f74c8.jpg" width="200" ></a>
 <a href="https://user-images.githubusercontent.com/218876/138945983-f937c1bb-6925-462d-a552-a12c2a8d83e4.jpg"><img src="https://user-images.githubusercontent.com/218876/138945983-f937c1bb-6925-462d-a552-a12c2a8d83e4.jpg" width="200" ></a>
-<a href="https://user-images.githubusercontent.com/218876/139624805-540b92e8-6d21-433d-a20c-759e41926e30.jpg"><img src="https://user-images.githubusercontent.com/218876/139624805-540b92e8-6d21-433d-a20c-759e41926e30.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/139726058-45d54672-cff0-456a-bf18-58d3154229c6.jpg"><img src="https://user-images.githubusercontent.com/218876/139726058-45d54672-cff0-456a-bf18-58d3154229c6.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/139725428-6eb4df5a-b5d3-4ff2-a70d-9f249f7abde1.jpg"><img src="https://user-images.githubusercontent.com/218876/139725428-6eb4df5a-b5d3-4ff2-a70d-9f249f7abde1.jpg" width="200" ></a>
 
 ## Design
 
