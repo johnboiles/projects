@@ -1,5 +1,7 @@
 # Plumbing Refactor
 
+<a href="https://user-images.githubusercontent.com/218876/139624625-1bf0f75a-9190-4199-9b44-dde34361df85.jpg"><img src="https://user-images.githubusercontent.com/218876/139624625-1bf0f75a-9190-4199-9b44-dde34361df85.jpg" width="600" ></a>
+
 My house was built in 1927 and still had galvanized steel pipes possibly from the original construction. Galvanized pipes rust on the inside, impeding water flow. Sometimes the rusty bits break off, get stuck in plumbing fixtures, and further impede flow until you take the fixture apart and clean it out. Also because of the thermal mass of the heavy pipes, along with the traditional trunk-and-branch layout (large main water pipes with smaller pipes going to individual fixtures), it would take >60s for the master bathroom shower to get hot, wasting a ton of water every time we showered.
 
 I wanted to replace these with more modern PEX-A plumbing. Goals of this project were:
@@ -18,11 +20,12 @@ Galvanized rusty bits I cleaned out of my fittings:
 <a href="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg"><img src="https://user-images.githubusercontent.com/218876/138945498-3e075433-c55e-47c5-8f95-5b137a199bea.jpg" width="200" ></a>
 <a href="https://user-images.githubusercontent.com/218876/138965951-d0d78d7c-cabf-4159-bdaa-db0e9e239e62.jpg"><img src="https://user-images.githubusercontent.com/218876/138965951-d0d78d7c-cabf-4159-bdaa-db0e9e239e62.jpg" width="200" ></a>
 
-Inside of the pipes I replaced
+Old pipes I replaced
 
 <a href="https://user-images.githubusercontent.com/218876/138945678-c99bec25-e849-446f-a3ce-237f881fe63c.jpg"><img src="https://user-images.githubusercontent.com/218876/138945678-c99bec25-e849-446f-a3ce-237f881fe63c.jpg" width="200" ></a>
 <a href="https://user-images.githubusercontent.com/218876/138945690-14bc3af4-f92f-4e44-bfaa-30aebd0f74c8.jpg"><img src="https://user-images.githubusercontent.com/218876/138945690-14bc3af4-f92f-4e44-bfaa-30aebd0f74c8.jpg" width="200" ></a>
 <a href="https://user-images.githubusercontent.com/218876/138945983-f937c1bb-6925-462d-a552-a12c2a8d83e4.jpg"><img src="https://user-images.githubusercontent.com/218876/138945983-f937c1bb-6925-462d-a552-a12c2a8d83e4.jpg" width="200" ></a>
+<a href="https://user-images.githubusercontent.com/218876/139624805-540b92e8-6d21-433d-a20c-759e41926e30.jpg"><img src="https://user-images.githubusercontent.com/218876/139624805-540b92e8-6d21-433d-a20c-759e41926e30.jpg" width="200" ></a>
 
 ## Design
 
