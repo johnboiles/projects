@@ -28,7 +28,11 @@ I then set about making a pretty top for it. One of my main motivators for this 
 
 I waited until it actually rained, and I could see the sump basin fill up before I bought the pump. But sure enough last week (10/24/2021) we got a ton of rain and the basin filled up all the way to the drain pipe connected to the driveway drain.
 
-To finish the job I got a [Zoeller Mighty Mate M53](https://www.amazon.com/dp/B000H5PYR2)  pump, some 1.5” ABS pipe and related fittings. I tested by filling the basin with a hose, but now I’m just waiting for the next big rain to see it in action!
+To finish the job I got a [Zoeller Mighty Mate M53](https://www.amazon.com/dp/B000H5PYR2) pump, a [check-valve](https://www.amazon.com/dp/B00WUFXGT0), some 1.5” ABS pipe and related fittings. I tested by filling the basin with a hose, but now I’m just waiting for the next big rain to see it in action!
 
 <a href="https://user-images.githubusercontent.com/218876/139747121-618f62c1-6427-4436-aade-2bdd1c136db1.jpg"><img src="https://user-images.githubusercontent.com/218876/139747121-618f62c1-6427-4436-aade-2bdd1c136db1.jpg" width="200" ></a>
 <a href="https://user-images.githubusercontent.com/218876/139747125-bf8b5c1d-5e12-46d0-9fe8-283bb7dfb724.jpg"><img src="https://user-images.githubusercontent.com/218876/139747125-bf8b5c1d-5e12-46d0-9fe8-283bb7dfb724.jpg" width="200" ></a>
+
+See also:
+* https://www.bobvila.com/articles/how-to-install-a-sump-pump/
+* https://www.wikihow.com/Install-a-Sump-Pump
